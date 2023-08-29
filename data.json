@@ -1,0 +1,43 @@
+{
+  "name": "Thi Tan Thinh",
+  "avatar": "https://avatars.githubusercontent.com/u/80353511?v=4",
+  "links": [
+    {
+      "title": "Portfolio",
+      "href": "https://tanthinh.id.vn",
+      "image": "https://raw.githubusercontent.com/7thang1/3tee/master/images/3t.png"
+    },
+    {
+      "title": "My CV",
+      "href": "https://tanthinh.id.vn/cvtienganh",
+      "image": "https://cdn-icons-png.flaticon.com/512/3846/3846805.png"
+    },
+    {
+      "title": "Favorate Music Playlist",
+      "href": "https://open.spotify.com/playlist/5XrrSuKZHMtT7tsWZX3AQy?si=a83f17b9763c4e5a",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"
+    }
+  ],
+  "socials": [
+    {
+      "title": "Facebook",
+      "href": "https://www.facebook.com/7thangg1"
+    },
+    {
+      "title": "Instagram",
+      "href": "https://www.instagram.com/just.3tee"
+    },
+    {
+      "title": "LinkedIn",
+      "href": "https://www.linkedin.com/in/tanthinhdev"
+    },
+    {
+      "title": "Github",
+      "href": "https://github.com/7thang1"
+    },
+    {
+      "title": "Spotify",
+      "href": "https://Spotfity.com/7thang1"
+    }
+  ]
+}
